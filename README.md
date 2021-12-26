@@ -1,8 +1,8 @@
 # pianos_tiles_bot
 
-image recognition bots exemple with the game piano tiles
+Image recognition bots exemple with the game piano tiles.
 
-# Used Website
+# Website link
 
 https://h5.4j.com/games/Piano-Tiles-2-Online/index.html?pubid=yiv&v=1546731466
 
@@ -20,4 +20,4 @@ pip install keyboard &nbsp;
 pip install pyautogui &nbsp;
 pip install Pillow --upgrade
 
-Then use your terminal and make sure you in the folder : python bot.py
+Then use on your terminal and make sure are you in the folder before : python bot.py
