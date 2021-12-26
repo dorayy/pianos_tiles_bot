@@ -15,7 +15,7 @@ For pip if the package didn't install : https://www.liquidweb.com/kb/install-pip
 
 Install these libraries from an administrator terminal (windows):
 
-pip install pywin32
-pip install keyboard
-pip install pyautogui
+pip install pywin32 &nbsp;
+pip install keyboard &nbsp;
+pip install pyautogui &nbsp;
 pip install Pillow --upgrade
