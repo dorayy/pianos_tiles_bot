@@ -24,5 +24,5 @@ Then use on your terminal and make sure are you in the folder before : python bo
 
 # For having the x and y value of your row use one the idle:
 
-import pyautogui
+import pyautogui  
 pyautogui.displayMousePosition()
