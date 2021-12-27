@@ -22,7 +22,7 @@ pip install Pillow --upgrade
 
 Then use on your terminal and make sure are you in the folder before : python bot.py
 
-# For having the x and y value of your row use one the idle:
+# For having the x and y value of your tiles use one the idle:
 
 import pyautogui  
 pyautogui.displayMousePosition()
